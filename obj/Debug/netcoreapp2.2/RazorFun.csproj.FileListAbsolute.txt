@@ -9,7 +9,6 @@
 /Users/cooperstrahan/Documents/Coding_Dojo/RazorFun/obj/Debug/netcoreapp2.2/RazorFun.RazorCoreGenerate.cache
 /Users/cooperstrahan/Documents/Coding_Dojo/RazorFun/obj/Debug/netcoreapp2.2/RazorFun.dll
 /Users/cooperstrahan/Documents/Coding_Dojo/RazorFun/obj/Debug/netcoreapp2.2/RazorFun.pdb
-/Users/cooperstrahan/Documents/Coding_Dojo/RazorFun/obj/Debug/netcoreapp2.2/Razor/Views/Index.g.cshtml.cs
 /Users/cooperstrahan/Documents/Coding_Dojo/RazorFun/obj/Debug/netcoreapp2.2/RazorFun.RazorTargetAssemblyInfo.cache
 /Users/cooperstrahan/Documents/Coding_Dojo/RazorFun/obj/Debug/netcoreapp2.2/RazorFun.RazorTargetAssemblyInfo.cs
 /Users/cooperstrahan/Documents/Coding_Dojo/RazorFun/bin/Debug/netcoreapp2.2/RazorFun.deps.json
@@ -21,3 +20,4 @@
 /Users/cooperstrahan/Documents/Coding_Dojo/RazorFun/bin/Debug/netcoreapp2.2/RazorFun.Views.pdb
 /Users/cooperstrahan/Documents/Coding_Dojo/RazorFun/obj/Debug/netcoreapp2.2/RazorFun.Views.pdb
 /Users/cooperstrahan/Documents/Coding_Dojo/RazorFun/obj/Debug/netcoreapp2.2/RazorFun.csproj.CopyComplete
+/Users/cooperstrahan/Documents/Coding_Dojo/RazorFun/obj/Debug/netcoreapp2.2/Razor/Views/Raz/Index.g.cshtml.cs

@@ -8,6 +8,7 @@ namespace RazorFun.Controllers
         [HttpGet("")]
         public ViewResult Index()
         {
+            System.Console.WriteLine("This is Working");
             return View("Index");
         }
     }
